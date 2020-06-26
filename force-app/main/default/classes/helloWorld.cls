@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * @File Name          : helloWorld.cls
  * @Description        : 
@@ -13,8 +14,13 @@ public class helloWorld {
     
       public static string sendMessage(String name){
           return 'Hello DevOps Nilesh demo 2' + name;
+=======
+public class helloWorld {
+    
+      public static string sendMessage(String name){
+          return 'Hello ' + name;
+>>>>>>> c56adaa709d60f477b277e100c29374d36ba2e3d
           
       }
-
 
 }
