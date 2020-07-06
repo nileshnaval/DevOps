@@ -28,6 +28,7 @@ public class helloWorld {
 public class helloWorld {
     
       public static string sendMessage(String name){
+          return 'Hello 2' + name;
           return 'Hello 3' + name;
 >>>>>>> c56adaa709d60f477b277e100c29374d36ba2e3d
           
