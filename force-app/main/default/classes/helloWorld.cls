@@ -1,3 +1,13 @@
+/**
+ * @description       : 
+ * @author            : Nilesh Patil
+ * @group             : 
+ * @last modified on  : 07-06-2020
+ * @last modified by  : Nilesh Patil
+ * Modifications Log 
+ * Ver   Date         Author         Modification
+ * 1.0   07-06-2020   Nilesh Patil   Initial Version
+**/
 <<<<<<< HEAD
 /**
  * @File Name          : helloWorld.cls
@@ -18,7 +28,7 @@ public class helloWorld {
 public class helloWorld {
     
       public static string sendMessage(String name){
-          return 'Hello ' + name;
+          return 'Hello 2' + name;
 >>>>>>> c56adaa709d60f477b277e100c29374d36ba2e3d
           
       }
