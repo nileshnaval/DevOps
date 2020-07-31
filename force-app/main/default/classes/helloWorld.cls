@@ -11,6 +11,6 @@
 
 public class helloWorld {
       public static string sendMessage(String name){
-            return 'Hello2' + name;        
+            return 'Hello' + name;        
       }
 }
